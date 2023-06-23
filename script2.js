@@ -24,7 +24,7 @@ console.log(firstName, lastName);
 // example: 1name = "shuaib"; (invalid)
 //          name1 = "shuaib"; (valid)
 
-// in special characters use can use only dollar symbol ($) or underScroe (_)
+// in special characters use can use only dollar symbol ($) or underScore (_)
 
 // example: $firstName = "Shuaib"; (valid)
 //          first$name = "Shuaib"; (valid)
