@@ -21,6 +21,7 @@ console.log(firstName, lastName);
 // rules for naming variables
 
 // you cannot start with number
+
 // example: 1name = "shuaib"; (invalid)
 //          name1 = "shuaib"; (valid)
 
