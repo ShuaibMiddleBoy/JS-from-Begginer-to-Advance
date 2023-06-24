@@ -43,7 +43,7 @@ let name = "Shuaib Khan";
 
 
 // slice()
-let fullName = "Shuaib Khan";
+let fullName = "Shoaib Khan ";
 // let particularWords = fullName.slice(0,5);
 let particularWords = fullName.slice(1);
 console.log(particularWords);
