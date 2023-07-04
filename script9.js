@@ -68,12 +68,12 @@ let value_2 = "value2";
 // const obj = {..."abcdefghijklmnopqrstuvwxyz"};
 // console.log(obj);
 
-const obj = {
-    name : "Shuaib",
-    age : 22,
-    gender : "male",
-    qualification : "Web developer"
-}
+// const obj = {
+//     name : "Shuaib",
+//     age : 22,
+//     gender : "male",
+//     qualification : "Web developer"
+// }
 
-const {name, age:a, ...rest} = obj;
-console.log(rest);
+// const {name, age:a, ...rest} = obj;
+// console.log(rest);
