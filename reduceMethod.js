@@ -1,3 +1,5 @@
+// reduce method **********************************
+
 // const numbers = [12,43,54,23,65,34,83,64];
 
 // const result = numbers.reduce((acc, currentValue)=>{
@@ -18,7 +20,7 @@
 // console.log(result);
 
 
-
+// realistic example ***********************
 const card = [
     {productID:1, productName:"Mobile", price:50000},
     {productID:1, productName:"remote", price:2000},
