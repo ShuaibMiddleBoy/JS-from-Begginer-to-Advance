@@ -13,7 +13,7 @@
 const users = [
     {productID:1, productName:"Mobile", price:50000},
     {productID:1, productName:"remote", price:2000},
-    {productID:1, productName:"laptop", price:200000},
+    {productID:1, productName:"laptop", price:400000},
     {productID:1, productName:"Mobile", price:23000},
     {productID:1, productName:"tv", price:35000},
     {productID:1, productName:"clothes", price:1000},
