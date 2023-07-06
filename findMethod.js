@@ -12,7 +12,7 @@
 
 // realistic example ***********************
 
-const card = [
+const Users = [
     {product_id:1, product_name:"Shuaib"},
     {product_id:2, product_name:"asim"},
     {product_id:3, product_name:"abdur-rehman"},
@@ -21,8 +21,8 @@ const card = [
 
 ]
 
-const result = card.find((param)=>{
-    return param.product_id === 3;
+const result = Users.find((user)=>{
+    return user.product_id === 3;
 })
 
 console.log(result);
