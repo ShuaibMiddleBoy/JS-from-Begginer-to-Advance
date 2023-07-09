@@ -19,7 +19,6 @@ const objInsideArray = [
     {id:6, name: "zia Khan", gender:"male"},
 ]
 
-
 const result = objInsideArray.map((person)=>{
     return `id:${person.id} My name is ${person.name}`
 })
