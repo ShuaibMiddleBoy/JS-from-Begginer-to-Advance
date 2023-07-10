@@ -95,3 +95,50 @@ const person5 = {
 
 person5[key3] = value3
 console.log(person5);
+
+
+
+
+
+
+
+
+// let key = "email";
+// const obj = {
+//     name : "Shuaib",
+//     age : 23
+// }
+
+// obj[key] = "skhan.csit@gmail.com";
+
+// for(let o in obj){
+//     console.log(o +" : "+obj[o]);
+// }
+
+// const keys = Object.keys(obj);
+// for(let key of keys){
+//     console.log(obj[key]);
+// }
+
+
+// let key_1 = "key1";
+// let key_2 = "key2";
+
+// let value_1 = "value1";
+// let value_2 = "value2";
+
+// const obj = {};
+// obj[key_1] = value_1;
+// obj[key_2] = value_2;
+// console.log(obj);
+
+
+// const obj = {
+//     [key_1] : value_1,
+//     [key_2] : value_2
+// };
+// console.log(obj);
+
+// const obj = {..."abcdefghijklmnopqrstuvwxyz"};
+// console.log(obj);
+
